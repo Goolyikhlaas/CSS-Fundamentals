@@ -1,0 +1,30 @@
+/* Set the background color of the body to black */
+body {
+    background-color: black;
+}
+
+/* Set the color of h1 elements to white */
+h1 {
+    color: white;
+}
+
+/* Set the background color of p elements to gray and the text color to black */
+p {
+    background-color: gray;
+    color: black;
+}
+
+/* Set the text color of the element with id="p2" to aqua */
+#p2 {
+    color: aqua;
+}
+
+/* Set the text color of elements with class="odd" to yellowgreen */
+.odd {
+    color: yellowgreen;
+}
+
+/* Set the text color of elements with class="even" to teal */
+.even {
+    color: teal;
+}
