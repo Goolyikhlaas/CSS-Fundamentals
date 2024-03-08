@@ -1,15 +1,23 @@
-body{
-    background-color: black; color: aliceblue;
+/* Set the background color of the body to black and the text color to aliceblue */
+body {
+    background-color: black;
     color: aliceblue;
 }
 
-h1{
+/* Set the font family of h1 elements to "Press Start 2P" */
+h1 {
     font-family: "Press Start 2P";
 }
 
-p{
+/* Set the text color of p elements to aquamarine */
+/* Set the font family of p elements to "consolas", Helvetica, sans-serif */
+/* Set the font style of p elements to italic */
+/* Set the font weight of p elements to bold */
+/* Set the text decoration of p elements to yellow dotted underline */
+/* Set the font size of p elements to 18 pixels */
+p {
     color: aquamarine;
-    font-family:"consolas", Helvetica, sans-serif;
+    font-family: "consolas", Helvetica, sans-serif;
     font-style: italic;
     font-weight: bold;
     text-decoration: yellow dotted underline;
