@@ -1,0 +1,30 @@
+/* Style for h1 element */
+h1 {
+    /* Set the top border style to dashed */
+    border-top-style: dashed;
+    /* Set the bottom border style to double */
+    border-bottom-style: double;
+    /* Set the top border color to blue */
+    border-top-color: blue;
+    /* Set the top border width to 10 pixels */
+    border-top-width: 10px;
+    /* Set the left border style to groove */
+    border-left-style: groove;
+    /* Set the left border width to 5 pixels */
+    border-left-width: 5px;
+}
+
+/* Style for p element */
+p {
+    /* Set the border style to outset */
+    border-style: outset;
+    /* Set the border width to 5 pixels */
+    border-width: 5px;
+    /* Set the border color to gold */
+    border-color: gold;
+    /* Set the border radius to 10 pixels */
+    border-radius: 10px;
+    /* Set the padding to 5 pixels */
+    padding: 5px;
+}
+
