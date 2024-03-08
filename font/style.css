@@ -1,0 +1,17 @@
+body{
+    background-color: black; color: aliceblue;
+    color: aliceblue;
+}
+
+h1{
+    font-family: "Press Start 2P";
+}
+
+p{
+    color: aquamarine;
+    font-family:"consolas", Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: yellow dotted underline;
+    font-size: 18px;
+}
