@@ -1,0 +1,39 @@
+/* Styling for box1 */
+#box1 {
+    border: 5px solid; /* 5px solid border */
+    width: 250px; /* 250px width */
+    height: 250px; /* 250px height */
+    font-size: 22px; /* Font size 22px */
+    background-color: yellowgreen; /* Yellowgreen background color */
+    padding: 50px; /* 50px padding inside the box */
+    margin-top: 50px; /* 50px margin on top */
+    margin-bottom: 50px; /* 50px margin on bottom */
+    margin-left: 50px; /* 50px margin on left */
+}
+
+/* Styling for box2 */
+#box2 {
+    border: 5px solid; /* 5px solid border */
+    width: 250px; /* 250px width */
+    height: 250px; /* 250px height */
+    font-size: 22px; /* Font size 22px */
+    background-color: yellowgreen; /* Yellowgreen background color */
+    margin: 50px; /* 50px margin on all sides */
+}
+
+/* Styling for box3 */
+#box3 {
+    border: 5px solid; /* 5px solid border */
+    width: 250px; /* 250px width */
+    height: 250px; /* 250px height */
+    font-size: 22px; /* Font size 22px */
+    background-color: yellowgreen; /* Yellowgreen background color */
+    margin-left: auto; /* Automatically adjust left margin for centering */
+    margin-right: auto; /* Automatically adjust right margin for centering */
+}
+
+/* To inspect elements in Chrome:
+1. Open your webpage in Chrome.
+2. Right-click on the element you want to inspect (e.g., #box1, #box2, or #box3).
+3. Select "Inspect" from the context menu. This will open the Chrome DevTools and highlight the selected element in the HTML panel.
+4. In the Styles panel of the DevTools, you can see all the CSS styles applied to the selected element. You can toggle individual styles on and off to see their effect on the element. */
