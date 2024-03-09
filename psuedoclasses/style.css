@@ -1,0 +1,53 @@
+a:link{
+    color: aquamarine;
+}
+
+a:visited{
+    color: gray;
+}
+
+a:hover{
+    color: tomato;
+}
+a:active{
+    color: yellow;
+}
+
+button:hover{
+    background-color: aquamarine;
+}
+
+button:active{
+    background-color: greenyellow;
+}
+
+/*
+li:nth-child(4){
+    background-color: blueviolet;
+}
+*/
+
+/*
+li:nth-child(4n + 1){
+    background-color: blueviolet;
+}
+*/
+
+/* Selects every third element 
+li:nth-child(3n){
+    background-color: blueviolet;
+}
+*/
+
+/* Selects every fourth element 
+li:nth-child(4n){
+    background-color: plum;
+}
+*/
+
+li:nth-child(odd){
+    background-color: blueviolet;
+}
+li:nth-child(even){
+    background-color: plum;
+}
