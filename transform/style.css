@@ -1,0 +1,67 @@
+#box1 {
+    /* Sets a 5px solid border */
+    border: 5px solid;
+    
+    /* Sets the width to 100px */
+    width: 100px;
+    
+    /* Sets the height to 100px */
+    height: 100px;
+    
+    /* Sets the font size to 25px */
+    font-size: 25px;
+    
+    /* Centers the text horizontally */
+    text-align: center;
+    
+    /* Sets the background color to aqua */
+    background-color: aqua;
+
+    /* Moves the element 50px to the right */
+    transform: translateX(50px);
+
+    /* Moves the element 50px down */
+    transform: translateY(50px);
+
+    /* Moves the element 50px to the right and 50px down */
+    transform: translate(50px, 50px);
+
+    /* Rotates the element 180 degrees around the X-axis */
+    transform: rotateX(180deg);
+
+    /* Rotates the element 180 degrees around the Y-axis */
+    transform: rotateY(180deg);
+
+    /* Rotates the element 180 degrees around the Z-axis */
+    transform: rotateZ(180deg);
+
+    /* Scales the element horizontally by a factor of 2 */
+    transform: scaleX(2);
+
+    /* Scales the element vertically by a factor of 2 */
+    transform: scaleY(2);
+
+    /* Skews the element horizontally by 45 degrees */
+    transform: skewX(45deg);
+
+    /* Skews the element vertically by 45 degrees */
+    transform: skewY(45deg);
+
+    /* Applies a 2D transformation matrix */
+    transform: matrix(1, 0, 0, 1, 0, 0 );
+    /*
+    matrix combines the following transformations:
+    - scaleX(1)
+    - skewY(0)
+    - skewX(0)
+    - scaleY(1)
+    - translateX(0)
+    - translateY(0)
+    */
+}
+
+ 
+
+
+
+}
