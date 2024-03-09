@@ -1,0 +1,20 @@
+#box1{
+    border: 1px;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+
+    position: relative;
+    top: 50px;
+    right: 150px;
+}
+
+#box2{
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    position: absolute;
+    top: 0;
+
+}
