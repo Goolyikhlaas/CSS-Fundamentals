@@ -1,7 +1,9 @@
-img{
-    float: left;
+/* Float all <img> elements to the left */
+img {
+    float: left; /* Float the images to the left */
 }
 
-#pright{
-    clear: right;
+/* Clear any elements floated to the right for the element with id "pright" */
+#pright {
+    clear: right; /* Clear any elements floated to the right */
 }
